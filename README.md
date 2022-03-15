@@ -3,7 +3,7 @@ mudar as setas pretas (setas sem preenchimento)
 fazer mais classes no contrato
 integrar melhor o contrato com o diagrama
 inverter o diamante preto
-colocar diamante vazio na assosiação de perfil
+colocar seta sem preenchimento(generalização e especialização) na assosiação de perfil
 mudar o nome do perfil para o perfil pessoal e perfil corporativo
 colocar mais classes em geral
 tirar a classe msg
