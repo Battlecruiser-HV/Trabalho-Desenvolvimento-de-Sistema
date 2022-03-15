@@ -11,4 +11,5 @@ fazer cobrança no diagrama de classe
 fazer cobrança no diagrama de atividade
 colocar uma arraia de sistema
 criar o processo de procura de profissionais (outra arraia)
-cirar um processo de negociação entre as partes (talvez outra arraia, ou modificar a arraia que ja existe)
+criar um processo de negociação entre as partes (talvez outra arraia, ou modificar a arraia que ja existe)
+tirar assosiações desnecessarias (tipo as dentro de programador e empresa)
